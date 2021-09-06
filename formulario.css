@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 1rem;
+}
+
+h2 {
+    font-size: .8rem;
+}
+
+.form {
+    width: 300px;
+
+    margin: 5rem auto;
+}
+
+.input {
+    width: 100%;
+    display: block;
+
+    padding: 1rem .8rem;
+
+    margin-bottom: 1rem;
+    border: 1px solid #CCCCCC;
+}
+
+.texto-centrado {
+    text-align: center;
+}
+
+.boton {
+    background-color: #4AAD52;
+    color: white;
+
+    font-weight: bold;
+
+    display: inline-block;
+    border: 1px solid #4AAD52;
+
+    padding: .7rem 2.5rem;
+
+    cursor: pointer;
+}
